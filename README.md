@@ -1,6 +1,6 @@
 # Análise de Números 📊
 
-## Estrutura do projeto 
+## Estrutura do projeto 📂
 - main.py: função principal
 - teste.py: demonstração de uso
 - README.md: documentação
